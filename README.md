@@ -13,4 +13,4 @@ The microservice will write the type of the pokemon to the same CSV file `typere
 An example of return data for the Pokemon Ribombee would be `Bug,Fairy`, written to `typereq.csv` by the microservice.
 
 ### UML Sequence Diagram:
-![UML diagram for microservice.](https://i.imgur.com/v4PFidd.png)
+![UML diagram for microservice.](https://i.imgur.com/kJdyPvh.png)
